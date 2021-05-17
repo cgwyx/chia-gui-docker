@@ -1,2 +1,2 @@
-# chia-gui-docker-
+# chia-gui-docker
 docker of chia gui
